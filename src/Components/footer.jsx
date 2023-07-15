@@ -3,7 +3,7 @@ import './footer.css';
 
 const Footer = () => {
   return (
-    <div className="footer">Developed by <a href="">Niharika Sharma</a></div>
+    <div className="footer">Developed by <a href="https://github.com/niha-sha0/react-weather">Niharika Sharma</a></div>
   )
 }
 
