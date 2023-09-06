@@ -39,3 +39,10 @@
     width: 10%;
     margin-left: 5%;
 }
+
+@media only screen and (max-width: 600px) {
+    .settings{
+        margin-right: 5%;
+        color: white;
+    }
+  }
